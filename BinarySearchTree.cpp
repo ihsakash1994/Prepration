@@ -117,6 +117,11 @@ class BST
               }
           }
       }
+
+      void DeleteNode(Node* subRoot, int val)
+      {
+
+      }
 };
 
 int main()
